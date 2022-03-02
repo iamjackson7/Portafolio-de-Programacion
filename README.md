@@ -1,11 +1,11 @@
 "# Portafolio-de-Programacion" 
-# Qué es Python?
+## ¿Qué es Python?
 
-# Qué es una variable?
+## ¿Qué es una variable?
 
-## Nombrando una variable
+### Nombrando una variable
 
-## Asignando valores a una variable
+### Asignando valores a una variable
 
 ## Operadores básicos
 
@@ -19,30 +19,30 @@
 
 ### Módulo
 
-# Tipos de datos en Python
+## Tipos de datos en Python
 
-## Integer
+### Integer
 
-## Float
+### Float
 
-## String
+### String
 
 ## Casting en Python
 
-## List
+### List
 
-## Tuple
+### Tuple
 
-## Dictionary
+### Dictionary
 
-# Tomando decisiones
+## Tomando decisiones
 
-## Sentencia if
+### Sentencia if
 
-## Ciclo For
+### Ciclo For
 
-## Ciclo While
+### Ciclo While
 
-## Break
+### Break
 
-## Continue
+### Continue
