@@ -16,9 +16,9 @@ De izquierda a derecha
 Al colocar valores en las varibles de python lo que estamos haciendo realmente es introducir algun tipo de dato en el espacio de memoria que se creo con el nombre que nosotros mismo le hayamos asignado.
 
 ```python
-nombre = ´Jackson´
+nombre = 'Jackson'
 edad = 19
-curso = ´Sistemas de la informacion´
+curso = 'Sistemas de la informacion'
 
 ```
 ## Operadores básicos
