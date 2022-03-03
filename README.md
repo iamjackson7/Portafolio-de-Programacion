@@ -43,6 +43,7 @@ print(num1,'-',num2,'=',resta)
 
 ```
 ### Multiplicación
+Operación aritmética que consiste en calcular el resultado de sumar un mismo número  tantas veces como indica otro número; se representa con los signos · o *.
 
 ### División
 
@@ -72,17 +73,17 @@ for l in list:
 Una tupla es un conjunto ordenado e inmutable de elementos del mismo o diferente tipo. Las tuplas se representan escribiendo los elementos entre paréntesis y separados por comas. Una tupla puede no contener ningún elemento, es decir, ser una tupla vacía.
 
 ```python
->>> numeros = 2, 4, 6, 8, 10
+>>> numeros = (2, 4, 6, 8, 10)
 
 ```
 
 ```python
->>> elementos = 3, 'a', 8, 7.2, 'holi'
+>>> elementos = (3, 'a', 8, 7.2, 'holi')
 
 ```
 
 ```python
->>> tup = 1, ['a', 'e', 'i', 'o', 'u'], 8.9, 'holi'
+>>> tup = 1, ('a', 'e', 'i', 'o', 'u'), 8.9, 'holi'
 
 ```
 ### Dictionary
