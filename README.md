@@ -20,7 +20,6 @@ De izquierda a derecha
 -resta (-)
 -Division (/)
 -módulo (%)
--Potencia (**)
 
 ### Suma
 
