@@ -60,7 +60,7 @@ En terminos comunes se podria decir que esta condicion se rompe el ciclo cuando 
 ### Continue
 La instrucción continue da la opción de omitir la parte de un bucle en la que se activa una condición externa, pero continuar para completar el resto del bucle.
 
-´´´python
+```python
 
 contador=0
 for a in range (20):
@@ -71,4 +71,4 @@ for a in range (20):
             continue
 print ("contador:",contador)
 
-´´´
+```
