@@ -60,7 +60,7 @@ Una tupla es un conjunto ordenado e inmutable de elementos del mismo o diferente
 ```
 
 ```python
->>> elementos = 3, 'a', 8, 7.2, 'hola'
+>>> elementos = 3, 'a', 8, 7.2, 'holi'
 
 ```
 
@@ -69,7 +69,13 @@ Una tupla es un conjunto ordenado e inmutable de elementos del mismo o diferente
 
 ```
 ### Dictionary
+Un Diccionario es una estructura de datos y un tipo de dato en Python con características especiales que nos permite almacenar cualquier tipo de valor como enteros, cadenas, listas e incluso otras funciones. 
 
+```python
+>>> d2 = dict(uno=1, dos=2, tres=3)
+>>> d2
+{'uno': 1, 'dos': 2, 'tres': 3}
+```
 ## Tomando decisiones
 
 ### Sentencia if
