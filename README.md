@@ -50,7 +50,7 @@ De izquierda a derecha
 ## Tomando decisiones
 
 ### Sentencia if
-
+La sentencia if se utiliza para ejecutar un bloque de código si, y solo si, se cumple una determinada condición. Por tanto, if es usado para la toma de decisiones. Es decir, solo si condición se evalúa a True , se ejecutarán las sentencias que forman parte de bloque de código .
 ### Ciclo For
 El bucle se repetira el numero de veces que le indiquemos ya sea una tupla, lista, variables, etc.
 ### Ciclo While
