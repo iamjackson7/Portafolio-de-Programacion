@@ -42,7 +42,15 @@ De izquierda a derecha
 ## Casting en Python
 
 ### List
+List en Python son un tipo de estructuras de datos muy flexible que guardan de forma ordenada un conjunto de datos que no tiene porque ser del mismo tipo.
 
+```python
+list= [1, 3.1416, 'j', 'jackson.com',  True]
+print 'Imprimimos los elementos de una lista y el tipo de dato de cada elemento'
+for l in lista:
+    print '%s - %s' %(l, type(l))
+
+```
 ### Tuple
 
 ### Dictionary
