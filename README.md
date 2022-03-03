@@ -61,6 +61,17 @@ print('fin')
 ```
 ### Ciclo For
 El bucle se repetira el numero de veces que le indiquemos ya sea una tupla, lista, variables, etc.
+
+```python
+nums = [4, 78, 9, 84]
+for n in nums:
+    print(n)
+4
+78
+9
+84
+
+```
 ### Ciclo While
 Al contrario del ciclo for, este bucle se repetira indeterminadas o determinadas veces.
 ### Break
