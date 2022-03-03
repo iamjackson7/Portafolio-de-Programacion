@@ -51,6 +51,14 @@ De izquierda a derecha
 
 ### Sentencia if
 La sentencia if se utiliza para ejecutar un bloque de código si, y solo si, se cumple una determinada condición. Por tanto, if es usado para la toma de decisiones. Es decir, solo si condición se evalúa a True , se ejecutarán las sentencias que forman parte de bloque de código .
+
+```python
+valores = [5,7,8,12]
+if 5 in valores:
+    print('está en valores')
+print('fin')
+
+```
 ### Ciclo For
 El bucle se repetira el numero de veces que le indiquemos ya sea una tupla, lista, variables, etc.
 ### Ciclo While
