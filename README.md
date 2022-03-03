@@ -22,9 +22,26 @@ De izquierda a derecha
 -módulo (%)
 
 ### Suma
+Operación aritmética que consiste en sumar 2 o varias cantidades; se representa con el signo +.
 
+```python
+n1=float(input("Intro número uno: "))
+n2=float(input("Intro numero dos: "))
+suma=n1+n2
+
+print("La suma es: ",suma
+
+```
 ### Resta
+Operación aritmética que consiste en quitar una cantidad de otra para averiguar la diferencia entre las dos, se representa con el signo -.
 
+```python
+num1=20
+num2=12
+resta=num1-num2
+print(num1,'-',num2,'=',resta)
+
+```
 ### Multiplicación
 
 ### División
