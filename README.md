@@ -47,7 +47,7 @@ List en Python son un tipo de estructuras de datos muy flexible que guardan de f
 ```python
 list= [1, 3.1416, 'j', 'jackson.com',  True]
 print 'Imprimimos los elementos de una lista y el tipo de dato de cada elemento'
-for l in lista:
+for l in list:
     print '%s - %s' %(l, type(l))
 
 ```
