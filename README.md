@@ -73,7 +73,7 @@ for n in nums:
 
 ```
 ### Ciclo While
-Al contrario del ciclo for, este bucle se repetira indeterminadas o determinadas veces.
+Ciclo while en Python es una sentencia de control de flujo que se utiliza para ejecutar un bloque de instrucciones de forma continuada mientras se cumpla una condición determinada.
 ### Break
 En terminos comunes se podria decir que esta condicion se rompe el ciclo cuando ejecute el programa.
 ### Continue
