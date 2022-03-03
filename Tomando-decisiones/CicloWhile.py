@@ -1,4 +1,4 @@
-#Crear un menu donde se pueda elejir multiples opciones y hacer las operaciones basicas.
+#Crear un menu donde tengas opcion multiple y hacer las operaciones basicas.
 
 op = -1
 num1 = 0
