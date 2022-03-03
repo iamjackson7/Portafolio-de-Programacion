@@ -58,7 +58,7 @@ Al contrario del ciclo for, este bucle se repetira indeterminadas o determinadas
 ### Break
 En terminos comunes se podria decir que esta condicion se rompe el ciclo cuando ejecute el programa.
 ### Continue
-La instrucción continue da la opción de omitir la parte de un bucle en la que se activa una condición externa, pero continuar para completar el resto del bucle.
+La instrucción continue da la opción de omitir la parte de un bucle en la que se activa una condición externa, pero continuar para completar el resto del bucle. Es decir, la iteración actual del bucle se interrumpirá, pero el programa volverá a la parte superior del bucle.
 
 ```python
 
