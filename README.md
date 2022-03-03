@@ -53,6 +53,21 @@ for l in list:
 ```
 ### Tuple
 Una tupla es un conjunto ordenado e inmutable de elementos del mismo o diferente tipo. Las tuplas se representan escribiendo los elementos entre paréntesis y separados por comas. Una tupla puede no contener ningún elemento, es decir, ser una tupla vacía.
+
+```python
+>>> numeros = 1, 2, 3, 4, 5
+
+```
+
+```python
+>>> elementos = 3, 'a', 8, 7.2, 'hola'
+
+```
+
+```python
+>>> tup = 1, ['a', 'e', 'i', 'o', 'u'], 8.9, 'holi'
+
+```
 ### Dictionary
 
 ## Tomando decisiones
