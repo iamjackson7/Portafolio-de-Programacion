@@ -75,7 +75,17 @@ print(num1,'%',num2,'=',modulo)
 ## Tipos de datos en Python
 
 ### Integer
+Son un tipo de datos que permite representar números enteros, es decir, positivos y negativos no decimales.
 
+```python
+a = 0b100
+b = 0x17
+c = 0o720
+print(a, type(a)) #4 <class 'int'>
+print(b, type(b)) #23 <class 'int'>
+print(c, type(c)) #464 <class 'int'>
+
+```
 ### Float
 
 ### String
