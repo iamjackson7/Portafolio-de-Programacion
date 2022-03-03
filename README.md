@@ -83,7 +83,7 @@ Una tupla es un conjunto ordenado e inmutable de elementos del mismo o diferente
 ```
 
 ```python
->>> tup = 1, ('a', 'e', 'i', 'o', 'u'), 8.9, 'holi'
+>>> vocales = (a, e, i, o, u)
 
 ```
 ### Dictionary
