@@ -29,7 +29,5 @@ while op != 0:
         print('division:',num1/num2)
     else :
         print ('no existe la opcion.')
-© 2022 GitHub, Inc.
-Terms
-Privacy
+
 
