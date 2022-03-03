@@ -45,8 +45,23 @@ print(num1,'-',num2,'=',resta)
 ### Multiplicación
 Operación aritmética que consiste en calcular el resultado de sumar un mismo número  tantas veces como indica otro número; se representa con los signos · o *.
 
-### División
+```python
+numero1 = int(input("Ingrese un numero"))
+numero2 = int(input("Ingrese un numero"))
+numero3 = int(input("Ingrese un numero"))
+multiplicacion = numero1 * numero2 * numero3
+print('Los valores ingresados multiplicados hacen un total' , multiplicacion)
 
+```
+### División
+La división es aquella operación matemática mediante la cual se trata de descomponer un número.
+
+```python
+division = int(6/3)
+print("La division es", division)
+[output] 2
+
+```
 ### Módulo
 
 ## Tipos de datos en Python
