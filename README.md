@@ -98,6 +98,12 @@ print(type(a)) #<class 'float'>
 ```
 ### String
 Son un tipo de datos compuestos por secuencias de caracteres que representan texto. Estas cadenas de texto son de tipo str y se delimitan mediante el uso de comillas simples o dobles.
+
+```python
+dia="Viernes"
+print(type(dia)) #imprimirá que tipo de dato es.
+
+```
 ## Casting en Python
 
 ### List
