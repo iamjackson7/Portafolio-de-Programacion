@@ -52,9 +52,10 @@ De izquierda a derecha
 ### Sentencia if
 
 ### Ciclo For
-
+El bucle se repetira el numero de veces que le indiquemos ya sea una tupla, lista, variables, etc.
 ### Ciclo While
-
+Al contrario del ciclo for, este bucle se repetira indeterminadas o determinadas veces.
 ### Break
-
+En terminos comunes se podria decir que esta condicion se rompe el ciclo cuando ejecute el programa.
 ### Continue
+A diferencia del ciclo  brack, esta condicional nos ayuda a continuar a terminar el ciclo for.
