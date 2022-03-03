@@ -74,6 +74,16 @@ for n in nums:
 ```
 ### Ciclo While
 Ciclo while en Python es una sentencia de control de flujo que se utiliza para ejecutar un bloque de instrucciones de forma continuada mientras se cumpla una condición determinada.
+
+```python
+numero = 0
+print('Tabla del 3')
+while numero <= 10:
+    print(f'{numero * 3}')
+    numero += 1
+print('Fin')
+
+```
 ### Break
 En terminos comunes se podria decir que esta condicion se rompe el ciclo cuando ejecute el programa.
 ### Continue
