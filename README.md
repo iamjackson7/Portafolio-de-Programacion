@@ -87,7 +87,15 @@ print(c, type(c)) #464 <class 'int'>
 
 ```
 ### Float
+El tipo numérico float permite representar un número positivo o negativo con decimales, es decir, números reales.
+Los valores float son almacenados de una forma muy particular, denominada representación en coma flotante.
 
+```python
+a = 0.10093
+print(a)       #0.10093
+print(type(a)) #<class 'float'>
+
+```
 ### String
 
 ## Casting en Python
