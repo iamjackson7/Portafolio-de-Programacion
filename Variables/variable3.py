@@ -1,5 +1,5 @@
 # Asignaciones en la misma línea
-x = 12; y =10; z=4
+x = 12; y =10; z=6
 
 print('x:', x)
 print(y)
