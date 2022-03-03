@@ -85,7 +85,20 @@ print('Fin')
 
 ```
 ### Break
-En terminos comunes se podria decir que esta condicion se rompe el ciclo cuando ejecute el programa.
+La instrucción break le proporciona la oportunidad de cerrar un bucle cuando se activa una condición externa. Debe poner la instrucción break dentro del bloque de código bajo la instrucción de su bucle, generalmente después de una instrucción if condicional.
+
+```python
+number = 0
+
+for number in range(10):
+    if number == 5:
+        break    # break here
+
+    print('Number is ' + str(number))
+
+print('Out of loop')
+
+```
 ### Continue
 La instrucción continue da la opción de omitir la parte de un bucle en la que se activa una condición externa, pero continuar para completar el resto del bucle. Es decir, la iteración actual del bucle se interrumpirá, pero el programa volverá a la parte superior del bucle.
 
