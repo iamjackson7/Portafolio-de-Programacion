@@ -63,7 +63,15 @@ print("La division es", division)
 
 ```
 ### Módulo
+El operador módulo da como resultado el resto de la división entera.
 
+```python
+num1=25
+num2=4
+modulo=num1%num2
+print(num1,'%',num2,'=',modulo)
+
+```
 ## Tipos de datos en Python
 
 ### Integer
