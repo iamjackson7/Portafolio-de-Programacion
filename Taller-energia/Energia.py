@@ -91,8 +91,7 @@ elif opcion == '1':
 
 #2. Solicite al usuario el nombre de una ciudad y presente un nuevo diccionario cuyas claves
 #son los nombres de las plantas generadoras y el valor es el total megavatios que cada
-#planta le ha dado a ciudad. Si la planta no entrega energía a la ciudad entonces esa planta
-#no debería aparecer en el nuevo diccionario  
+#planta le ha dado a ciudad.  
 elif opcion == '2':
     print('''
     ===============================
