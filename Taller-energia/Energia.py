@@ -139,12 +139,12 @@ elif opcion == '3':
 
     n_region = input('Ingrese nombre de Región: ')
 
-    if n_region == 'Oriente':
-        print('Total Recaudado en la Región Oriente: ', oriente, '$')
+    if n_region == 'Sierra':
+        print('Total Recaudado en la Región Oriente: ', sierra, '$')
     elif n_region == 'Costa':
         print('Total Recaudado en la Región Costa: ', costa, '$')
-    elif n_region == 'Sierra':
-        print(sierra)
+    elif n_region == 'Oriente':
+        print(oriente)
     else:
         print("Digite correctamente la primera en mayuscula")
     exit
