@@ -28,7 +28,7 @@ oriente = ('No hay planta en oriente')
 
 print('''
     ===============================
-          PLANTAS ENERGETICAS
+          PLANTAS DE ENERGIA
     ===============================
     ''')
 print('<1>. Total de Megavatios ')
