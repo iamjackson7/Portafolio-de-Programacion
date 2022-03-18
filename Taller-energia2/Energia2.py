@@ -106,7 +106,7 @@ while op != 0:
     elif op == 3:
         print('''
     ===============================
-          DINERO TOTAL 
+          DINERO RECAUDADO 
               REGIONES
     Costa
     Sierra
