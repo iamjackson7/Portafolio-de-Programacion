@@ -101,3 +101,5 @@ while op != 0:
     else:
         print(total1)
         print(total2)
+#3. Solicite el nombre de una región al usuario y presente cuento dinero ha recaudado la
+#región
