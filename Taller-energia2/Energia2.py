@@ -101,3 +101,27 @@ while op != 0:
     else:
         print(total1)
         print(total2)
+#3. Solicite el nombre de una región al usuario y presente cuento dinero ha recaudado la
+#región    
+    elif op == 3:
+        print('''
+    ===============================
+          DINERO TOTAL 
+              REGIONES
+    Costa
+    Sierra
+    Oriente
+    Insular
+    ===============================
+    ''')
+        region = input('Ingrese región:')
+        total3 = total_por_region(region)
+        if type(total3)==int:
+            print("La Region",region, 'recaudo:', total3,"Dolares$", '\n')
+        else:
+            print(total3)
+    elif op==0:
+        exit
+        print("saliendo")
+    else:
+        print("Coloque Bien")
